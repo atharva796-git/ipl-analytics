@@ -1,0 +1,544 @@
+Player,Role,Avg_Price_Cr,Max_Price_Cr,Times_Auctioned,Total_Runs,Balls_Faced,Strike_Rate,Total_Wickets,Economy_Rate,Runs_Norm,SR_Norm,Wickets_Norm,Performance_Score_Raw,Performance_Score,Value_Flag
+Aaron Finch,Batsman,3.76,6.2,5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Abdul Samad,All-Rounder,0.2,0.2,1,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.3333333333333333,0.6,0.4,Fair Price
+Abhijeet Tomar,Batsman,0.4,0.4,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Abhimanyu Mithun,Bowler,0.3,0.3,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Abhinav Sadarangani,Batsman,2.6,2.6,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Abhishek Nayar,All-Rounder,3.03,5.06,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Abhishek Sharma,All-Rounder,3.52,6.5,2,667.0,493.0,135.29,7.0,0.0,17.12451861360719,98.100210282068,4.666666666666666,309.49,37.68,Good Value
+Abu Nechim Ahmed,Bowler,0.3,0.3,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Adam Milne,Bowler,1.93,3.2,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Adam Zampa,Bowler,0.3,0.3,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Aditya Garhwal,All-Rounder,0.25,0.25,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Aditya Tare,Wicket Keeper,0.81,1.6,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Agnivesh Ayachi,All-Rounder,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Aiden Blizzard,Batsman,0.3,0.3,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Aiden Markram,Batsman,2.6,2.6,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Ajantha Mendis,Bowler,5.44,5.44,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Overpriced
+Ajinkya Rahane,Batsman,2.5,4.0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Akash Deep,Bowler,0.2,0.2,1,0.0,0.0,0.0,5.0,0.0,0.0,0.0,3.333333333333333,1.5,1.0,Fair Price
+Akash Singh,Bowler,0.2,0.2,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Akhil Arvind Herwadkar,All-Rounder,0.1,0.1,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Akila Dananjaya,All-Rounder,0.15,0.15,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Akila Dhananjaya,Bowler,0.5,0.5,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Akshar Rajesh Patel,All-Rounder,0.75,0.75,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Akshay Karnewar,All-Rounder,0.1,0.1,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Akshay Wakhare,Bowler,0.1,0.1,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Akshdeep Nath,All-Rounder,1.2,3.6,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Albie Morkel,All-Rounder,1.35,2.4,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Alex Carey,Wicket Keeper,2.4,2.4,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Alex Hales,Batsman,1.5,1.5,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Alzarri Joseph,Bowler,2.4,2.4,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Aman Khan,All-Rounder,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Ambati Rayudu,Wicket Keeper,4.47,6.75,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Amit Mishra,Bowler,2.49,4.75,5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Amit Paunikar,Wicket Keeper,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Andre Russell,All-Rounder,0.6,0.6,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Andrew Tye,Bowler,2.22,7.2,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Aneeshwar Gautam,All-Rounder,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Angelo Mathews,All-Rounder,4.75,7.5,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Aniket Choudhary,Bowler,1.15,2.0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Anirudha Ashok Joshi,All-Rounder,0.2,0.2,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Ankeet Bawane,Batsman,0.1,0.1,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Ankit Nagendra Sharma,Bowler,0.1,0.1,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Ankit Sharma,All-Rounder,0.15,0.2,2,0.0,0.0,0.0,12.0,7.18,0.0,0.0,8.0,3.6,2.4,Fair Price
+Ankit Singh Rajpoot,Bowler,1.67,3.0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Ankush Bains,Wicket Keeper,0.12,0.2,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Anmolpreet Singh,Batsman,0.5,0.8,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Anrich Nortje,Bowler,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Ansh Patel,All-Rounder,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Anuj Rawat,Wicket Keeper,2.1,3.4,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Anukul Roy,All-Rounder,0.2,0.2,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Anunay Singh,All-Rounder,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Anureet Singh,Bowler,0.25,0.3,2,0.0,0.0,0.0,18.0,8.83,0.0,0.0,12.0,5.4,3.6,Fair Price
+Apoorv Vijay Wankhade,Batsman,0.15,0.2,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Arjun Tendulkar,All-Rounder,0.25,0.3,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Armaan Jaffer,Batsman,0.1,0.1,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Arshdeep Singh,Bowler,0.2,0.2,1,0.0,0.0,0.0,40.0,8.13,0.0,0.0,26.666666666666664,12.0,8.0,Fair Price
+Aryaman Vikram Birla,All-Rounder,0.3,0.3,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Aryan Juyal,Wicket Keeper,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Asela Gunarathna,Batsman,0.3,0.3,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Ashish Nehra,Bowler,3.75,5.5,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Ashish Reddy,Bowler,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Ashok Dinda,Bowler,1.0,1.5,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Ashok Sharma,Bowler,0.55,0.55,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Ashton Turner,All-Rounder,0.5,0.5,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Ashwin Hebbar,Batsman,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Asif K M,Bowler,0.4,0.4,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Atharva Taide,All-Rounder,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Avesh Khan,Bowler,5.35,10.0,2,0.0,0.0,0.0,47.0,8.23,0.0,0.0,31.333333333333332,14.1,9.4,Overpriced
+Axar Rajesh Patel,All-Rounder,5.0,5.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Ayush Badoni,All-Rounder,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+B. Sai Sudharsan,All-Rounder,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Baba Aparajith,All-Rounder,0.1,0.1,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Baba Indrajith,Wicket Keeper,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Baltej Dhanda,Bowler,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Bandaru Ayyappa,Bowler,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Barinder Singh Saran,Bowler,0.1,0.1,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Barinder Singh Sran,Bowler,2.27,3.4,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Basil Thampi,Bowler,0.7,0.95,3,0.0,0.0,0.0,22.0,9.72,0.0,0.0,14.666666666666666,6.6,4.4,Fair Price
+Ben Cutting,All-Rounder,1.06,2.2,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Ben Dunk,Wicket Keeper,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Ben Dwarshuis,Bowler,1.4,1.4,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Ben Hilfenhaus,Bowler,1.0,1.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Ben Laughlin,Bowler,0.32,0.5,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Benjamin Stokes,All-Rounder,13.5,14.5,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Overpriced
+Benny Howell,All-Rounder,0.4,0.4,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Beuran Hendricks,Bowler,1.8,1.8,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Bhanuka Rajapaksa,Batsman,0.5,0.5,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Bhuvneshwar Kumar,Bowler,4.22,4.25,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Billy Stanlake,Batsman,0.4,0.5,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Bipul Sharma,All-Rounder,0.2,0.2,1,0.0,0.0,0.0,17.0,7.97,0.0,0.0,11.333333333333332,5.1,3.4,Fair Price
+Brad Hodge,Batsman,2.4,2.4,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Brad Hogg,Bowler,0.5,0.5,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Brendan Taylor,Wicket Keeper,0.3,0.3,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Brendon McCullum,Batsman,3.42,3.6,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+C Hari Nishaanth,Batsman,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+C.Hari Nishaanth,Batsman,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+C.M. Gautam,Wicket Keeper,0.2,0.2,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Cameron Delport,All-Rounder,0.3,0.3,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Carlos Brathwaite,All-Rounder,3.73,5.0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Chaitanya Bishnoi,All-Rounder,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Chama Milind,Bowler,0.15,0.25,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Chamika Karunaratne,All-Rounder,0.5,0.5,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Chetan Sakariya,Bowler,2.7,4.2,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Cheteshwar Pujara,Batsman,1.2,1.9,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Chirag Suri,Batsman,0.1,0.1,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Chris Green,All-Rounder,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Chris Jordan,All-Rounder,2.02,3.6,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Chris Lynn,Batsman,4.3,9.6,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Chris Woakes,All-Rounder,4.37,7.4,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Christopher Barnwell,All-Rounder,0.38,0.38,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Christopher Gayle,Batsman,2.0,2.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Christopher Morris,All-Rounder,7.87,16.25,5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Overpriced
+Clinton McKay,Bowler,0.75,0.75,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Colin De Grandhomme,All-Rounder,2.2,2.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Colin Ingram,Batsman,6.4,6.4,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Overpriced
+Colin Munro,All-Rounder,1.1,1.9,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Corey Anderson,All-Rounder,2.75,4.5,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Dale Steyn,Bowler,2.15,2.3,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Dan Christian,All-Rounder,4.8,4.8,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Daniel Christian,All-Rounder,1.08,1.5,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Daniel Sams,All-Rounder,2.6,2.6,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Darcy Short,All-Rounder,4.0,4.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Darren Bravo,Batsman,0.5,0.5,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Darren Sammy,All-Rounder,2.45,3.5,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Darshan Nalkande,All-Rounder,0.25,0.3,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Daryl Mitchell,All-Rounder,0.75,0.75,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+David Miller,Batsman,2.25,3.0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+David Warner,Batsman,5.88,6.25,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Overpriced
+David Wiese,All-Rounder,2.8,2.8,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+David Willey,All-Rounder,2.0,2.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Dawid Malan,All-Rounder,1.5,1.5,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Debabrata Das,Wicket Keeper,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Deepak Chahar,All-Rounder,4.97,14.0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Deepak Hooda,All-Rounder,2.89,5.75,5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Deepak Punia,All-Rounder,0.1,0.1,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Devdutt Padikkal,Batsman,3.98,7.75,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Devon Conway,Batsman,1.0,1.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Dewald Brevis,Batsman,3.0,3.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Dhawal Kulkarni,Bowler,1.28,2.0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Dhruv Jurel,Wicket Keeper,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Dhruv Shorey,All-Rounder,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Digvijay Deshmukh,All-Rounder,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Dinesh Karthik,Wicket Keeper,7.64,12.5,5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Overpriced
+Dinesh Salunkhe,All-Rounder,0.1,0.1,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Dirk Nannes,Bowler,4.5,4.5,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Dishant Yagnik,Wicket Keeper,0.3,0.3,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Dominic Drakes,All-Rounder,1.1,1.1,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Domnic Joseph Muthuswamy,Bowler,0.75,0.75,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Dushmanta Chameera,Bowler,2.0,2.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Dushmantha Chameera,Bowler,0.5,0.5,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Dwaine Pretorius,All-Rounder,0.5,0.5,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Dwayne Bravo,All-Rounder,5.4,6.4,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Overpriced
+Dwayne Smith,All-Rounder,3.4,4.5,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Eklavya Dwivedi,Wicket Keeper,0.62,1.0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Eoin Morgan,Batsman,2.92,5.25,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Evin Lewis,Batsman,2.9,3.8,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Fabian Allen,All-Rounder,0.67,0.75,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Faf Du Plessis,Batsman,4.45,7.0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Farhaan Behardien,All-Rounder,0.3,0.3,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Fazalhaq Farooqi,Bowler,0.5,0.5,1,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.3333333333333333,0.6,0.4,Fair Price
+Fidel Edwards,Bowler,1.58,1.58,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Finn Allen,Batsman,0.8,0.8,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Gautam Gambhir,Batsman,2.8,2.8,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+George Bailey,Batsman,3.25,3.25,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Glenn Maxwell,All-Rounder,9.5,14.25,5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Overpriced
+Glenn Phillips,Wicket Keeper,1.5,1.5,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Gurinder Sandhu,Bowler,1.7,1.7,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Gurkeerat Singh Mann,All-Rounder,0.76,1.3,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+HS Sharath,Bowler,0.1,0.1,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Hanuma Vihari,Batsman,1.05,2.0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Harbhajan Singh,Bowler,2.0,2.0,2,833.0,604.0,137.91,150.0,7.02,21.386392811296535,100.0,100.0,419.57,68.55,Good Value
+Hardik Pandya,All-Rounder,0.1,0.1,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Hardus Viljoen,Bowler,0.75,0.75,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Harpreet Brar,All-Rounder,2.0,3.8,2,0.0,0.0,0.0,9.0,7.67,0.0,0.0,6.0,2.7,1.8,Fair Price
+Harry Gurney,Bowler,0.75,0.75,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Harshal Patel,All-Rounder,3.78,10.75,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Heinrich Klaasen,Wicket Keeper,0.5,0.5,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Himmat Singh,Batsman,0.65,0.65,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Hrithik Shokeen,All-Rounder,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Imran Tahir,Bowler,1.0,1.0,1,0.0,0.0,0.0,82.0,7.68,0.0,0.0,54.666666666666664,24.6,16.4,Fair Price
+Iqbal Abdullah,All-Rounder,0.38,0.65,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Irfan Pathan,All-Rounder,1.63,2.4,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Ishan Kishan,Wicket Keeper,7.27,15.25,3,1870.0,1413.0,132.34,0.0,0.0,48.010269576379976,95.96113407294612,0.0,787.7,47.99,Fair Price
+Ishan Porel,Bowler,0.25,0.25,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Ishank Jaggi,Batsman,0.15,0.2,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Ishant Sharma,Bowler,2.5,3.8,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Ishwar Chandra Pandey,Bowler,0.85,1.5,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Isuru Udana,All-Rounder,0.5,0.5,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+J Suchith,All-Rounder,0.2,0.3,2,0.0,0.0,0.0,19.0,8.39,0.0,0.0,12.666666666666666,5.7,3.8,Fair Price
+Jacob Oram,All-Rounder,0.38,0.38,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Jacques Kallis,All-Rounder,5.5,5.5,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Overpriced
+Jagadeesha Suchith,Bowler,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Jalaj Saxena,All-Rounder,0.38,0.9,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+James Faulkner,All-Rounder,3.0,3.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+James Neesham,All-Rounder,0.8,1.5,5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Jaskaran Singh,Bowler,0.1,0.1,1,0.0,0.0,0.0,6.0,0.0,0.0,0.0,4.0,1.8,1.2,Fair Price
+Jason Behrendorff,Bowler,1.12,1.5,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Jason Holder,All-Rounder,2.59,8.75,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Jason Roy,Batsman,1.5,2.0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Jasprit Bumrah,Bowler,1.2,1.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Jatin Saxena,All-Rounder,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Javon Searless,All-Rounder,0.3,0.3,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Jayant Yadav,All-Rounder,0.77,1.7,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Jaydev Shah,All-Rounder,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Jaydev Unadkat,Bowler,3.77,11.5,9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Jean-Paul Duminy,All-Rounder,1.6,2.2,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Jeevan Mendis,All-Rounder,0.38,0.38,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Jesse Ryder,All-Rounder,1.95,1.95,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Jhye Richardson,Bowler,14.0,14.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Overpriced
+Jitesh Sharma,Wicket Keeper,0.15,0.2,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Joe Denly,Batsman,1.0,1.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Joel Paris,Bowler,0.3,0.3,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Jofra Archer,All-Rounder,7.6,8.0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Overpriced
+Johan Botha,All-Rounder,3.38,3.38,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+John Hastings,All-Rounder,0.9,1.3,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Jonny Bairstow,Wicket Keeper,4.47,6.75,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Jos Buttler,Wicket Keeper,4.1,4.4,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Josh Hazlewood,Bowler,3.42,7.75,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Joshua Philippe,Wicket Keeper,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Juan Theron,Bowler,0.3,0.3,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+K.Bhagath Varma,All-Rounder,0.2,0.2,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+K.C Cariappa,Bowler,0.25,0.3,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+K.C. Cariappa,Bowler,1.6,2.4,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+K.K. Jiyaz,Bowler,0.1,0.1,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+K.M. Asif,Bowler,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+K.S. Bharat,Wicket Keeper,2.0,2.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+KL Rahul,Batsman,6.0,11.0,2,3895.0,2861.0,136.14,0.0,0.0,100.0,98.71655427452686,0.0,1598.84,69.61,Fair Price
+Kagiso Rabada,Bowler,6.15,9.25,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Overpriced
+Kamlesh Nagarkoti,All-Rounder,2.15,3.2,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Kane Richardson,Bowler,3.06,5.25,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Kane Williamson,All-Rounder,1.8,3.0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Kanishk Seth,All-Rounder,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Karan Sharma,All-Rounder,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Karanveer Singh,All-Rounder,0.1,0.1,1,0.0,0.0,0.0,12.0,9.24,0.0,0.0,8.0,3.6,2.4,Fair Price
+Karn Sharma,Bowler,3.11,5.0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Kartik Tyagi,Bowler,2.65,4.0,2,0.0,0.0,0.0,14.0,8.99,0.0,0.0,9.333333333333332,4.2,2.8,Fair Price
+Karun Nair,Batsman,2.45,5.6,5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Kedar Jadhav,All-Rounder,3.93,7.8,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Keemo Paul,All-Rounder,0.5,0.5,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Kevin Pietersen,Batsman,4.83,9.0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Kevon Cooper,All-Rounder,0.3,0.3,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Kieron Pollard,All-Rounder,5.4,5.4,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Overpriced
+Kishore Pramod Kamath,All-Rounder,1.4,1.4,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Kona Srikar Bharat,Wicket Keeper,0.15,0.2,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Krishnappa Gowtham,All-Rounder,4.59,9.25,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Krismar Santokie,Bowler,0.3,0.3,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Krunal Pandya,All-Rounder,6.35,8.8,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Overpriced
+Kshitiz Sharma,All-Rounder,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Kuldeep Sen,Bowler,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Kuldeep Yadav,Bowler,2.73,5.8,3,0.0,0.0,0.0,61.0,8.23,0.0,0.0,40.666666666666664,18.3,12.2,Fair Price
+Kuldip Yadav,Bowler,0.2,0.2,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Kulwant Khejroliya,Bowler,0.48,0.85,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Kusal Janith Perera,Wicket Keeper,0.15,0.15,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Kyle Abbott,Bowler,1.2,2.1,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Kyle Jamieson,All-Rounder,15.0,15.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Overpriced
+Kyle Mayers,All-Rounder,0.5,0.5,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Lakshmipathy Balaji,Bowler,1.8,1.8,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Lalit Yadav,All-Rounder,0.43,0.65,2,229.0,219.0,104.57,8.0,0.0,5.879332477535302,75.82481328402581,5.333333333333333,125.37,26.7,Fair Price
+Lasith Malinga,Bowler,2.0,2.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Laxmi Ratan Shukla,All-Rounder,0.9,1.5,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Liam Livingstone,All-Rounder,4.25,11.5,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Lockie Ferguson,Bowler,4.03,10.0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Luke Pomersbach,Batsman,2.25,2.25,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Lukman Hussain Meriwala,Bowler,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Lungisani Ngidi,Bowler,0.5,0.5,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Luvnith Sisodia,Wicket Keeper,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+M Siddharth,Bowler,0.2,0.2,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+M. Ashwin,Bowler,1.98,4.5,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+M. Harisankar Reddy,Bowler,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Maheesh Theekshana,Bowler,0.7,0.7,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Mahipal Lomror,All-Rounder,0.42,0.95,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Manan Ajay Sharma,All-Rounder,0.1,0.1,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Manan Vohra,Batsman,0.5,1.1,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Mandeep Hardev Singh,All-Rounder,0.8,0.8,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Mandeep Singh,All-Rounder,1.25,1.4,2,1692.0,1372.0,123.32,0.0,0.0,43.4403080872914,89.42063664708867,0.0,713.8,44.2,Underpaid Gem
+Manish Pandey,Batsman,5.77,11.0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Overpriced
+Manjot Kalra,Batsman,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Manoj Tiwary,Batsman,1.43,2.8,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Manpreet Gony,Bowler,2.17,3.75,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Manprit Juneja,Batsman,0.1,0.1,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Manvinder Bisla,Wicket Keeper,0.6,0.6,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Manzoor Dar,All-Rounder,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Marchant De Lange,Bowler,0.3,0.3,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Marco Jansen,All-Rounder,2.2,4.2,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Marcus Stoinis,All-Rounder,2.95,6.2,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Mark Wood,Bowler,4.5,7.5,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Martin Guptill,Batsman,0.75,1.0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Matt Henry,Bowler,0.4,0.5,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Matthew Wade,Wicket Keeper,2.4,2.4,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Mayank Agarwal,Batsman,1.3,1.6,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Mayank Dagar,All-Rounder,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Mayank Markande,Bowler,0.43,0.65,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Mayank Yadav,Bowler,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Michael Clarke,Batsman,3.0,3.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Michael Hussey,Batsman,3.25,5.0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Midhun S,All-Rounder,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Milind Kumar,All-Rounder,0.15,0.2,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Milind Tandon,All-Rounder,0.1,0.1,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Mitchell Johnson,Bowler,3.5,6.5,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Mitchell Marsh,All-Rounder,4.43,6.5,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Mitchell McClenaghan,Bowler,0.3,0.3,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Mitchell Santner,All-Rounder,1.2,1.9,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Mitchell Starc,Bowler,7.2,9.4,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Overpriced
+Mithun Manhas,All-Rounder,0.3,0.3,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Moeen Ali,All-Rounder,4.35,7.0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Mohammad Nabi,All-Rounder,0.77,1.0,3,0.0,0.0,0.0,13.0,7.24,0.0,0.0,8.666666666666666,3.9,2.6,Fair Price
+Mohammad Shami,Bowler,4.58,6.25,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Mohammed Azharudeen,Wicket Keeper,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Mohammed Siraj,Bowler,2.6,2.6,2,0.0,0.0,0.0,59.0,8.49,0.0,0.0,39.33333333333333,17.7,11.8,Fair Price
+Mohd. Arshad Khan,All-Rounder,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Mohit Sharma,Bowler,3.28,6.5,5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Mohsin Khan,Bowler,0.2,0.2,3,0.0,0.0,0.0,14.0,0.0,0.0,0.0,9.333333333333332,4.2,2.8,Fair Price
+Moises Henriques,All-Rounder,2.11,4.2,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Monu Singh,Bowler,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Morne Morkel,Bowler,2.8,2.8,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Mujeeb Zadran,Bowler,2.75,4.0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Mukesh Choudhary,Bowler,0.2,0.2,1,0.0,0.0,0.0,16.0,8.95,0.0,0.0,10.666666666666666,4.8,3.2,Fair Price
+Munaf Patel,Bowler,0.3,0.3,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Murali Kartik,Bowler,1.0,1.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Murali Vijay,Batsman,3.33,5.0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Murugan Ashwin,Bowler,1.6,1.6,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Mustafizur Rahman,Bowler,1.65,2.2,4,0.0,0.0,0.0,46.0,7.7,0.0,0.0,30.666666666666664,13.8,9.2,Fair Price
+Muttiah Muralitharan,Bowler,1.0,1.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+N Jagadeesan,Wicket Keeper,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+N. Jagadeesan,Wicket Keeper,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+N. Tilak Varma,All-Rounder,1.7,1.7,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Naman Ojha,Wicket Keeper,0.95,1.4,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Nathan Coulter-Nile,Bowler,4.05,8.0,7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Nathan Ellis,Bowler,0.75,0.75,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Nathan McCullum,Bowler,0.75,0.75,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Nathu Singh,Bowler,1.3,3.2,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Navdeep Saini,Bowler,1.9,3.0,3,0.0,0.0,0.0,21.0,8.38,0.0,0.0,14.0,6.3,4.2,Fair Price
+Nic Maddinson,Batsman,0.5,0.5,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Nicolas Pooran,Wicket Keeper,5.08,10.75,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Overpriced
+Nidheesh M D Dinesan,Bowler,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Nikhil Shankar Naik,Wicket Keeper,0.23,0.3,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Nitish Rana,All-Rounder,3.83,8.0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Noor Ahmad,Bowler,0.3,0.3,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Obed Mccoy,Bowler,0.75,0.75,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Odean Smith,All-Rounder,6.0,6.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Overpriced
+Oshane Thomas,Bowler,0.8,1.1,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Pankaj Jaswal,All-Rounder,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Pankaj Singh,Bowler,1.12,1.12,1,0.0,0.0,0.0,11.0,9.1,0.0,0.0,7.333333333333333,3.3,2.2,Fair Price
+Paras Dogra,Batsman,0.1,0.1,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Pardeep Sahu,All-Rounder,0.13,0.2,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Parthiv Patel,Wicket Keeper,1.55,1.7,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Parveez Rasool,All-Rounder,0.95,0.95,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Parvinder Awana,Bowler,0.65,0.65,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Pat Cummins,Bowler,6.73,15.5,5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Overpriced
+Pavan Deshpande,All-Rounder,0.2,0.2,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Pawan Negi,All-Rounder,2.22,8.5,5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Pawan Suyal,Bowler,0.1,0.1,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Peter Handscomb,Wicket Keeper,0.3,0.3,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Philip Hughes,Batsman,0.75,0.75,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Piyush Chawla,Bowler,4.4,6.75,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Prabhsimran Singh,Wicket Keeper,1.98,4.8,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Pradeep Sangwan,All-Rounder,0.63,1.5,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Pragyan Ojha,Bowler,1.88,3.25,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Prasanth Padmanabhan,All-Rounder,0.1,0.1,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Prasanth Parameswaran,Bowler,0.3,0.3,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Prashant Chopra,Wicket Keeper,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Prashant Solanki,Bowler,1.2,1.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Prasidh Krishna,Bowler,10.0,10.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Overpriced
+Pratham Singh,All-Rounder,0.15,0.2,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Pratyush Singh,All-Rounder,0.1,0.1,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Praveen Dubey,All-Rounder,0.22,0.35,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Praveen Kumar,Bowler,2.85,3.5,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Pravin Dubey,All-Rounder,0.5,0.5,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Pravin Tambe,Bowler,0.15,0.2,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Prayas Ray Barman,All-Rounder,1.5,1.5,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Prerak Mankad,All-Rounder,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Prince Balwant Rai Singh,All-Rounder,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Prithvi Raj Yarra,Bowler,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Prithvi Shaw,Batsman,1.2,1.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Priyam Garg,Batsman,1.05,1.9,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Quinton De Kock,Wicket Keeper,3.3,6.75,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+R Samarth,Batsman,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+R. Ashwin,All-Rounder,5.0,5.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+R. Sai Kishore,Bowler,1.6,3.0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+R. Sanjay Yadav,All-Rounder,0.1,0.1,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Rahul Ajay Tripathi,All-Rounder,0.1,0.1,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Rahul Buddhi,Batsman,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Rahul Chahar,Bowler,2.42,5.25,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Rahul Sharma,Bowler,1.1,1.9,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Rahul Shukla,Bowler,0.4,0.4,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Rahul Tewatia,All-Rounder,3.09,9.0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Rahul Tripathi,Batsman,4.17,8.5,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Raj Angad Bawa,All-Rounder,2.0,2.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Rajagopal Sathish,All-Rounder,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Rajat Bhatia,All-Rounder,1.15,1.7,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Rajat Patidar,Batsman,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Rajvardhan Hangargekar,All-Rounder,1.5,1.5,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Ramandeep Singh,All-Rounder,0.2,0.2,1,0.0,0.0,0.0,6.0,0.0,0.0,0.0,4.0,1.8,1.2,Fair Price
+Ramesh Kumar,Batsman,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Ranganath Vinay Kumar,Bowler,1.9,2.8,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Rashid Khan Arman,Bowler,6.5,9.0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Overpriced
+Rasikh Dar,Bowler,0.2,0.2,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Rassie Van Der Dussen,Batsman,1.0,1.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Ravi Bishnoi,Bowler,2.0,2.0,1,0.0,0.0,0.0,37.0,7.43,0.0,0.0,24.666666666666664,11.1,7.4,Fair Price
+Ravi Bopara,All-Rounder,1.0,1.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Ravi Rampaul,Bowler,1.54,2.17,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Ravichandran Ashwin,All-Rounder,7.6,7.6,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Overpriced
+Ricky Bhui,Batsman,0.15,0.2,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Ricky Ponting,Batsman,3.0,3.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Riley Meredith,Bowler,4.5,8.0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Rinku Singh,Batsman,0.48,0.8,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Ripal Patel,All-Rounder,0.2,0.2,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Rishabh Pant,Wicket Keeper,1.9,1.9,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Rishi Dhawan,All-Rounder,1.37,3.0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Riyan Parag,All-Rounder,2.0,3.8,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Robin Uthappa,Batsman,4.1,6.4,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Romario Shepherd,All-Rounder,7.75,7.75,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Overpriced
+Ronit More,Bowler,0.1,0.1,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Ross Taylor,Batsman,2.0,2.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Rovman Powell,All-Rounder,1.55,2.8,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Rudra Pratap Singh,Bowler,1.65,3.0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Ruturaj Gaikwad,Batsman,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Ryan McLaren,Bowler,0.38,0.38,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Ryan Ten Doeschate,All-Rounder,1.0,1.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Sachin Baby,Batsman,0.17,0.2,3,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.3333333333333333,0.6,0.4,Fair Price
+Sachin Rana,Bowler,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Sachithra Senanayaka,All-Rounder,4.69,4.69,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Sagar Trivedi,All-Rounder,0.1,0.1,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Sam Billings,Wicket Keeper,1.32,2.0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Sam Curran,All-Rounder,6.35,7.2,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Overpriced
+Samuel Badree,Bowler,0.4,0.5,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Sandeep Bavanaka,All-Rounder,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Sandeep Lamichhane,Bowler,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Sandeep Sharma,Bowler,1.45,3.0,3,0.0,0.0,0.0,114.0,7.62,0.0,0.0,76.0,34.2,22.8,Fair Price
+Sandeep Warrier,Bowler,0.1,0.1,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Sanjay Yadav,All-Rounder,0.35,0.5,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Sanju Samson,Wicket Keeper,6.1,8.0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Overpriced
+Sarabjit Ladda,Bowler,0.1,0.1,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Sarfaraz Khan,All-Rounder,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Sarfaraz Naushad Khan,All-Rounder,0.38,0.5,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Saurabh Dubey,Bowler,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Saurabh Kumar,All-Rounder,0.15,0.2,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Saurabh Tiwary,Batsman,0.57,0.8,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Sayan Ghosh,Bowler,0.15,0.2,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Sayan Sekhar Mandal,All-Rounder,0.1,0.1,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Scott Boland,Bowler,0.5,0.5,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Sean Abbott,Bowler,1.7,2.4,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Shadab Jakati,All-Rounder,0.2,0.2,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Shahbaz Ahamad,All-Rounder,1.3,2.4,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Shahbaz Nadeem,Bowler,1.52,3.2,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Shahrukh Khan,All-Rounder,7.12,9.0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Overpriced
+Shakib Al Hasan,All-Rounder,2.67,3.2,3,795.0,639.0,124.41,63.0,7.39,20.410783055198973,90.21100717859473,42.0,374.22,47.83,Good Value
+Shane Watson,All-Rounder,6.75,9.5,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Overpriced
+Sharad Lumba,Batsman,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Shardul Thakur,Bowler,4.52,10.75,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Shashank Singh,All-Rounder,0.2,0.3,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Shaun Marsh,Batsman,2.2,2.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Sheldon Cottrell,Bowler,8.5,8.5,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Overpriced
+Sheldon Jackson,Wicket Keeper,0.32,0.6,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Shelley Shaurya,Bowler,0.1,0.1,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Sherfane Rutherford,All-Rounder,1.5,2.0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Shikhar Dhawan,Batsman,6.72,8.25,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Overpriced
+Shimron Hetmyer,Batsman,6.82,8.5,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Overpriced
+Shishir Bhavane,Batsman,0.1,0.1,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Shivam Dube,All-Rounder,4.47,5.0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Shivam Mavi,All-Rounder,5.12,7.25,2,0.0,0.0,0.0,30.0,8.38,0.0,0.0,20.0,9.0,6.0,Overpriced
+Shivam Sharma,Bowler,0.1,0.1,1,0.0,0.0,0.0,4.0,0.0,0.0,0.0,2.6666666666666665,1.2,0.8,Fair Price
+Shivil Kaushik,Bowler,0.1,0.1,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Shreevats Goswami,Wicket Keeper,1.0,1.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Shreyas Gopal,Bowler,0.35,0.75,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Shreyas Iyer,Batsman,7.42,12.25,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Overpriced
+Shrikant Mundhe,All-Rounder,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Shubam Agrawal,All-Rounder,0.1,0.1,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Shubham Garhwal,All-Rounder,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Shubham Ranjane,All-Rounder,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Shubman Gill,Batsman,1.8,1.8,1,1900.0,1517.0,125.25,0.0,0.0,48.78048780487805,90.82010006525995,0.0,797.58,46.76,Underpaid Gem
+Siddarth Kaul,Bowler,1.45,3.8,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Siddharth Kaul,Bowler,0.75,0.75,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Siddhesh Dinesh Lad,All-Rounder,0.15,0.2,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Simarjeet Singh,Bowler,0.2,0.2,1,0.0,0.0,0.0,4.0,0.0,0.0,0.0,2.6666666666666665,1.2,0.8,Fair Price
+Srikkanth Anirudha,Batsman,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Steven Smith,All-Rounder,3.1,4.0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Stuart Binny,All-Rounder,1.25,2.0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Subhranshu Senapati,Batsman,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Subramaniam Badrinath,Batsman,0.3,0.3,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Sudeep Tyagi,Bowler,0.75,0.75,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Sumit Narwal,All-Rounder,0.1,0.1,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Suryakumar Yadav,Batsman,1.95,3.2,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Sushant Marathe,Wicket Keeper,0.1,0.1,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Suyash Prabhudesai,All-Rounder,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Suyash Prabhudessai,All-Rounder,0.3,0.3,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Swapnil Singh,All-Rounder,0.1,0.1,1,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.6666666666666666,0.3,0.2,Fair Price
+Syed Khaleel Ahmed,Bowler,2.78,5.25,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Syed Mehdi Hasan,All-Rounder,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+T Natarajan,Bowler,1.7,3.0,2,0.0,0.0,0.0,38.0,8.51,0.0,0.0,25.333333333333332,11.4,7.6,Fair Price
+T. Natarajan,Bowler,4.0,4.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Tajinder Dhillon,All-Rounder,0.38,0.55,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Tanmay Agarwal,Batsman,0.15,0.2,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Tanmay Mishra,Batsman,0.1,0.1,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Tejas Baroka,Bowler,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Tejas Singh Baroka,Bowler,0.1,0.1,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Thisara Perera,All-Rounder,2.55,5.06,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Tim David,All-Rounder,8.25,8.25,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Overpriced
+Tim Seifert,Wicket Keeper,0.5,0.5,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Tim Southee,Bowler,1.55,2.5,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Tirumalasetti Suman,Batsman,0.1,0.1,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Tom Banton,Batsman,1.0,1.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Tom Curran,All-Rounder,3.12,5.25,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Travis Head,Batsman,0.4,0.5,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Trent Boult,Bowler,4.75,8.0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Tushar Deshpande,Bowler,0.2,0.2,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Tymal Mills,Bowler,6.75,12.0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Overpriced
+Umang Sharma,Batsman,0.1,0.1,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Umesh Yadav,Bowler,2.45,4.2,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Unmukt Chand,Batsman,0.65,0.65,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Utkarsh Singh,All-Rounder,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Vaibhav Arora,Bowler,1.1,2.0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Vaibhav Rawal,All-Rounder,0.1,0.1,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Varun Aaron,Bowler,1.92,2.8,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Varun Chakaravarthy,All-Rounder,6.2,8.4,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Overpriced
+Veer Pratap Singh,Bowler,0.4,0.4,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Venkatesh Iyer,All-Rounder,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Venugopal Rao,Batsman,0.55,0.55,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Vicky Ostwal,All-Rounder,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Vijay Shankar,All-Rounder,1.26,3.2,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Vijay Zol,Batsman,0.3,0.3,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Vikas Tokas,Bowler,0.1,0.1,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Vikramjeet Malik,Bowler,0.2,0.2,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Virat Singh,Batsman,1.9,1.9,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Virender Sehwag,Batsman,3.2,3.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Vishnu Vinod,Wicket Keeper,0.35,0.5,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Wanindu Hasaranga,All-Rounder,10.75,10.75,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Overpriced
+Washington Sundar,All-Rounder,5.98,8.75,2,318.0,264.0,120.45,33.0,7.18,8.16431322207959,87.33956928431586,22.0,173.24,36.07,Fair Price
+Wayne Parnell,Bowler,1.0,1.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Wriddhiman Saha,Wicket Keeper,2.58,5.0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Writtick Chatterjee,All-Rounder,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Yash Dayal,Bowler,3.2,3.2,1,0.0,0.0,0.0,11.0,0.0,0.0,0.0,7.333333333333333,3.3,2.2,Fair Price
+Yash Dhull,All-Rounder,0.5,0.5,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Yashasvi Jaiswal,All-Rounder,2.4,2.4,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Yogesh Gowalkar,All-Rounder,0.1,0.1,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Yogesh Takawale,Wicket Keeper,0.1,0.1,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Yudhvir Charak,All-Rounder,0.2,0.2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Yusuf Pathan,All-Rounder,2.58,3.25,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Yuvraj Singh,All-Rounder,8.0,16.0,5,2754.0,2122.0,129.78,36.0,7.44,70.70603337612324,94.10485098977594,24.0,1151.33,63.71,Fair Price
+Yuzvendra Chahal,Bowler,6.5,6.5,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Overpriced
+Yuzvendra Singh Chahal,Bowler,3.05,6.0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Zaheer Khan,Bowler,3.3,4.0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
+Zahir Khan Pakteen,Bowler,0.6,0.6,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fair Price
