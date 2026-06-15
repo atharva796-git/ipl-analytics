@@ -27,32 +27,39 @@ IPL auctions involve teams spending crores on players. This project builds a cus
 ## 📁 Project Structure
 
 ```
-P3 (IPL Analytics)/
+IPL-Player-Performance-Auction-Dashboard/
 │
-├── raw_data/                          # Original downloaded datasets
-│   ├── IPL_Matches_2008_2022.csv      # 950 matches, 20 columns
-│   ├── IPL_Ball_by_Ball_2008_2022.csv # 225,954 deliveries, 17 columns
-│   └── IPLPlayerAuctionData.csv       # 970 auction records, 6 columns
+├── data/
+│   ├── raw/
+│   │   ├── IPL_Matches_2008_2022.csv        # 950 matches, 20 columns
+│   │   ├── IPL_Ball_by_Ball_2008_2022.csv   # 225,954 deliveries, 17 columns
+│   │   └── IPLPlayerAuctionData.csv          # 970 auction records, 6 columns
+│   │
+│   └── clean/
+│       ├── Matches_Clean.csv                 # Excel cleaned matches data
+│       ├── Ball_by_Ball_Clean.csv            # Excel cleaned ball by ball data
+│       ├── Auction_Clean.csv                 # Excel cleaned auction data
+│       ├── ipl_master.csv                    # Final merged dataset (543 players)
+│       ├── ipl_top_batters.csv               # Top 20 run scorers
+│       ├── ipl_top_bowlers.csv               # Top 20 wicket takers
+│       └── ipl_season_summary.csv            # Season-wise run trends
 │
-├── clean_data/                        # Excel-cleaned CSVs (used for MySQL import)
-│   ├── Matches_Clean.csv
-│   ├── Ball_by_Ball_Clean.csv
-│   └── Auction_Clean.csv
+├── sql/
+│   └── ipl_analysis.sql                      # MySQL schema + 6 analysis queries
 │
-├── ipl_analysis.sql                   # MySQL schema + 6 analysis queries
-├── ipl_eda.ipynb                      # Python EDA notebook (16 cells)
+├── notebooks/
+│   └── ipl_eda.ipynb                         # Python EDA notebook (16 cells)
 │
-├── ipl_master.csv                     # Final merged dataset (543 players)
-├── ipl_top_batters.csv                # Top 20 run scorers (all IPL players)
-├── ipl_top_bowlers.csv                # Top 20 wicket takers (all IPL players)
-├── ipl_season_summary.csv             # Season-wise run trends
+├── dashboard/
+│   └── IPL_Analysis_Dashboard.twb            # Tableau workbook
 │
-├── top_run_scorers.png                # EDA chart
-├── top_wicket_takers.png              # EDA chart
-├── price_vs_performance.png           # EDA chart — hero visualization
-├── value_distribution.png             # EDA chart
+├── visualizations/
+│   ├── top_run_scorers.png
+│   ├── top_wicket_takers.png
+│   ├── price_vs_performance.png
+│   └── value_distribution.png
 │
-└── IPL Analysis Dashboard.twb         # Tableau workbook
+└── README.md
 ```
 
 ---
